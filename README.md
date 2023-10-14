@@ -6,7 +6,7 @@
 
 <img src="https://camo.githubusercontent.com/17ad49f3db1f01d928836707c11d14a723183877e2c221fe8abd8ed74707e82b/68747470733a2f2f77616e646572696e2e6465762f77702d636f6e74656e742f75706c6f6164732f323031392f31322f63726f702d302d302d313137302d3339302d302d61626f75742d636f7665722e706e67" width="100%" height="50%">
 
-<h1 align="center">Hi 👋, I am Sunil Shinde </h1>
+<h1 align="center">Hi 👋, I Am Sunil Shinde </h1>
 <!-- <h3 align="center">A Passionate Java Developer from India</h3> -->
 <h1 align="center">Aspiring Java Developer</h1>
 
