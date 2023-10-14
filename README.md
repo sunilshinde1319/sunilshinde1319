@@ -12,19 +12,20 @@
 
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=8309h&label=Profile%20views&color=0e75b6&style=flat" alt="8309h" />
-<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=2000&pause=1000&color=0FE6F7&center=true&width=550&lines=Aspring+Full+Stack+ Web+Developer" alt="Typing SVG" /></a>//
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=2000&pause=1000&color=0FE6F7&center=true&width=550&lines=Aspring+Java+Developer" alt="Typing SVG" /></a>//
 </div></p> -->
 
-<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=8309h" alt="harshl" /></a></p>
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunilshinde1319" alt="sunil" /></a></p>
 
 - - 👀 <b>I’m interested in makes the changes.</b>
-- 💻 Learnt <b>Full Stack Web Development from Masai School</b>
+- 💻 Learnt <b>Java Development from Masai School</b>
 - 🤝 I’m looking to collaborate with some genious people as you.
-- 💌 Reach at me harshalwagh201718@gmail.com
-- 🔗 Connect me Linkedin <a target=_blank href="https://www.linkedin.com/in/waghharshal/" >Linkedin</a>
+- 💌 Reach at me sunilshinde5699@gmail.com
+- 🔗 Connect me Linkedin <a target=_blank href="https://www.linkedin.com/in/sunil-shinde-3a3072217/">Linkedin</a>
+<!--
 - 🔗 Know more about me  <a target=_blank href="https://drive.google.com/file/d/1zaKV0PMn3Zf79WhEMjPloyIMbvaWn_6R/view?usp=share_link" >Resume</a>
 - 🔗 My Portfolio <a target ="_blank" href = "https://8309harshalwagh.netlify.app/">Click Here</a>
-
+-->
 
 <h3 align="left">Connect with me:</h3>
 <div id="badges">
