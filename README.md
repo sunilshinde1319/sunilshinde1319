@@ -18,7 +18,7 @@
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunilshinde1319" alt="sunil" /></a></p>
 
 - - 👀 <b>I’m interested in makes the changes.</b>
-- 💻 Learnt <b>Java Development from Masai School</b>
+- 💻 Learnt <b>Java Development from Sinhgad Institute Of Management (SIOM) Pune</b>
 - 🤝 I’m looking to collaborate with some genious people as you.
 - 💌 Reach at me sunilshinde5699@gmail.com
 - 🔗 Connect me Linkedin <a target=_blank href="https://www.linkedin.com/in/sunil-shinde-3a3072217/">Linkedin</a>
