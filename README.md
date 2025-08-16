@@ -62,8 +62,8 @@
 <!-- ================= GITHUB STATS ================= -->
 <h3>🔥 GitHub Stats</h3>
 <p>
-  <!-- Horizontal language graph with all languages used in your projects -->
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunilshinde1319&layout=default&theme=dark&hide=none&langs_count=10" alt="All Languages" />
+  <!-- Horizontal language graph with all languages -->
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunilshinde1319&layout=normal&theme=dark&langs_count=10" alt="All Languages" />
 </p>
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sunilshinde1319&show_icons=true&locale=en&theme=dark&background=000000" alt="GitHub Stats" />
