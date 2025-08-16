@@ -40,23 +40,23 @@
 <h2>💻 Languages and Tools</h2>
 <p align="center">
   <!-- Frontend -->
-  [![HTML5](https://img.shields.io/badge/HTML5-90%25-orange?style=for-the-badge&logo=html5&logoColor=white)]()
-  [![CSS3](https://img.shields.io/badge/CSS3-85%25-blue?style=for-the-badge&logo=css3&logoColor=white)]()
-  [![JavaScript](https://img.shields.io/badge/JavaScript-70%25-yellow?style=for-the-badge&logo=javascript&logoColor=black)]()
-  [![Bootstrap](https://img.shields.io/badge/Bootstrap-70%25-purple?style=for-the-badge&logo=bootstrap&logoColor=white)]()
+  ![HTML5](https://img.shields.io/badge/HTML5-90%25-orange?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-85%25-blue?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-70%25-yellow?style=for-the-badge&logo=javascript&logoColor=black)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-70%25-purple?style=for-the-badge&logo=bootstrap&logoColor=white)
   
   <!-- Backend -->
-  [![Java](https://img.shields.io/badge/Java-95%25-red?style=for-the-badge&logo=java&logoColor=white)]()
-  [![Spring Boot](https://img.shields.io/badge/SpringBoot-85%25-green?style=for-the-badge&logo=springboot&logoColor=white)]()
-  [![Hibernate](https://img.shields.io/badge/Hibernate-75%25-orange?style=for-the-badge&logo=hibernate&logoColor=white)]()
-  [![MySQL](https://img.shields.io/badge/MySQL-75%25-blue?style=for-the-badge&logo=mysql&logoColor=white)]()
-  [![Postman](https://img.shields.io/badge/Postman-70%25-orange?style=for-the-badge&logo=postman&logoColor=white)]()
+  ![Java](https://img.shields.io/badge/Java-95%25-red?style=for-the-badge&logo=java&logoColor=white)
+  ![Spring Boot](https://img.shields.io/badge/SpringBoot-85%25-green?style=for-the-badge&logo=springboot&logoColor=white)
+  ![Hibernate](https://img.shields.io/badge/Hibernate-75%25-orange?style=for-the-badge&logo=hibernate&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-75%25-blue?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Postman](https://img.shields.io/badge/Postman-70%25-orange?style=for-the-badge&logo=postman&logoColor=white)
   
   <!-- DevOps & Version Control -->
-  [![Git](https://img.shields.io/badge/Git-85%25-red?style=for-the-badge&logo=git&logoColor=white)]()
-  [![GitHub](https://img.shields.io/badge/GitHub-85%25-black?style=for-the-badge&logo=github&logoColor=white)]()
-  [![AWS](https://img.shields.io/badge/AWS-60%25-orange?style=for-the-badge&logo=amazon-aws&logoColor=white)]()
-  [![Netlify](https://img.shields.io/badge/Netlify-60%25-black?style=for-the-badge&logo=netlify&logoColor=#00C7B7)]()
+  ![Git](https://img.shields.io/badge/Git-85%25-red?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-85%25-black?style=for-the-badge&logo=github&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-60%25-orange?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  ![Netlify](https://img.shields.io/badge/Netlify-60%25-black?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 </p>
 
 <!-- ================= GITHUB STATS ================= -->
@@ -67,3 +67,4 @@
 
 <!-- GitHub Streak -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sunilshinde1319&theme=dark&background=000000)](https://git.io/streak-stats)
+****
