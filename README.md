@@ -8,7 +8,7 @@
 
 <h1 align="center">Hi 👋, I Am Sunil Shinde </h1>
 <!-- <h3 align="center">A Passionate Java Developer from India</h3> -->
-<h1 align="center">Aspiring Java Developer</h1>
+<h1 align="center">Java Developer</h1>
 
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=8309h&label=Profile%20views&color=0e75b6&style=flat" alt="8309h" />
@@ -17,7 +17,7 @@
 
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunilshinde1319" alt="sunil" /></a></p>
 
-- - 👀 <b>I’m interested in makes the changes.</b>
+- 👀 <b>I’m interested in makes the changes.</b>
 - 💻 Learnt <b>Java Development from Sinhgad Institute Of Management (SIOM) Pune</b>
 - 🤝 I’m looking to collaborate with some genious people as you.
 - 💌 Reach at me sunilshinde5699@gmail.com
@@ -34,9 +34,6 @@
     <img src="https://img.shields.io/badge/Resume-blue?style=for-the-badge&logo=Resume&logoColor=white" alt="Twitter Badge"/>
   </a>
   -->
-<!--   <a href="https://www.instagram.com/harshal_k_wagh/">
-    <img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white" alt="insta Badge"/>
-  </a> -->
  
 </div>
  <img src="https://komarev.com/ghpvc/?username=sunilshinde1319&style=flat-square&color=blue" alt=""/>
