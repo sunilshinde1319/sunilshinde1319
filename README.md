@@ -65,14 +65,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sunilshinde1319&show_icons=true&locale=en&theme=dark&background=000000" alt="GitHub Stats" />
 </p>
 
-<!-- ================= CUSTOM PROJECT BADGES ================= -->
-<h3>📂 Projects</h3>
-<p align="center">
-  [![Portfolio](https://img.shields.io/badge/Portfolio-View-blue?style=for-the-badge)](https://sunilshindeportfolio.netlify.app/)
-  [![Java Projects](https://img.shields.io/badge/Java-Projects-orange?style=for-the-badge)]()
-  [![SpringBoot Projects](https://img.shields.io/badge/SpringBoot-Projects-green?style=for-the-badge)]()
-  [![Hibernate Projects](https://img.shields.io/badge/Hibernate-Projects-red?style=for-the-badge)]()
-</p>
-
 <!-- GitHub Streak -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sunilshinde1319&theme=dark&background=000000)](https://git.io/streak-stats)
