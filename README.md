@@ -34,8 +34,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunil-shinde-3a3072217/)
 [![Resume](https://img.shields.io/badge/Resume-blue?style=for-the-badge&logo=resume&logoColor=white)](https://drive.google.com/file/d/1WcFNiU8hkRvtrpXGiKSxq8xPU8FyC1J6/view?usp=sharing)
 
-
-
 <!-- Profile Views -->
 <img src="https://komarev.com/ghpvc/?username=sunilshinde1319&style=flat-square&color=blue" alt="Profile Views"/>
 
@@ -64,7 +62,8 @@
 <!-- ================= GITHUB STATS ================= -->
 <h3>🔥 GitHub Stats</h3>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunilshinde1319&show_icons=true&locale=en&layout=compact&theme=dark&background=000000" alt="Top Languages" />
+  <!-- Horizontal language graph with all languages used in your projects -->
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunilshinde1319&layout=default&theme=dark&hide=none&langs_count=10" alt="All Languages" />
 </p>
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sunilshinde1319&show_icons=true&locale=en&theme=dark&background=000000" alt="GitHub Stats" />
