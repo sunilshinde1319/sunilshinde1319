@@ -9,7 +9,7 @@
 -->
 <h1 align="center">Hi 👋, I Am Sunil Shinde </h1>
 <!-- <h3 align="center">A Passionate Java Developer from India</h3> -->
-<h1 align="center">Java Developer</h1>
+<h1 align="center">Aspiring Java Developer</h1>
 
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=8309h&label=Profile%20views&color=0e75b6&style=flat" alt="8309h" />
