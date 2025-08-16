@@ -33,8 +33,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunil-shinde-3a3072217/)
 [![Resume](https://img.shields.io/badge/Resume-blue?style=for-the-badge&logo=resume&logoColor=white)](https://drive.google.com/file/d/1WcFNiU8hkRvtrpXGiKSxq8xPU8FyC1J6/view?usp=sharing)
-
-
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+[![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/)
 
 <!-- Profile Views -->
 <img src="https://komarev.com/ghpvc/?username=sunilshinde1319&style=flat-square&color=blue" alt="Profile Views"/>
@@ -60,6 +60,17 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)]()
 [![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)]()
 [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)]()
+
+<!-- ================= PROJECTS ================= -->
+<h2>💼 Projects</h2>
+<p>Some of my notable projects with live links and GitHub repos:</p>
+
+| Project | Description | Tech Stack | Link |
+|---------|-------------|------------|------|
+| Employee Task Management System | Spring Boot + MySQL project for assigning and tracking employee tasks | Java, Spring Boot, Hibernate, MySQL, Thymeleaf | [GitHub](https://github.com/sunilshinde1319/EmployeeTaskManagementSystem) |
+| SmartServiceProvider App | Android project for connecting users with home service providers | Java, Firebase, XML, Android Studio | [GitHub](https://github.com/sunilshinde1319/SmartServiceProvider) |
+| Crime Record Management System | Web app to manage FIR, criminal, and police data | Java, Spring Boot, MySQL, PHP | [GitHub](https://github.com/sunilshinde1319/CrimeRecordManagementSystem) |
+| Portfolio Website | Personal portfolio showcasing skills & projects | HTML5, CSS3, Bootstrap, JavaScript, Netlify | [Live Demo](https://sunilshindeportfolio.netlify.app/) |
 
 <!-- ================= GITHUB STATS ================= -->
 <h3>🔥 GitHub Stats</h3>
