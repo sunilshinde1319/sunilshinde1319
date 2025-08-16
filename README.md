@@ -40,31 +40,76 @@
 <!-- ================= LANGUAGES & TOOLS ================= -->
 <h2>Languages and Tools</h2>
 
-<!-- Frontend -->
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)]()
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)]()
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)]()
 [![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)]()
-
-<!-- Backend -->
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)]()
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)]()
 [![Hibernate](https://img.shields.io/badge/Hibernate-%23CF0000.svg?style=for-the-badge&logo=hibernate&logoColor=white)]()
 [![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)]()
 [![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)]()
-
-<!-- DevOps & Version Control -->
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)]()
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)]()
 [![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)]()
 [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)]()
 
+<!-- ================= CUSTOM TECH BARS ================= -->
+<h3>💻 Skill Proficiency</h3>
+
+<table>
+<tr>
+  <td>Java</td>
+  <td>██████████ 90%</td>
+</tr>
+<tr>
+  <td>Spring Boot</td>
+  <td>████████ 80%</td>
+</tr>
+<tr>
+  <td>Hibernate</td>
+  <td>███████ 70%</td>
+</tr>
+<tr>
+  <td>MySQL</td>
+  <td>███████ 70%</td>
+</tr>
+<tr>
+  <td>HTML5</td>
+  <td>████████ 80%</td>
+</tr>
+<tr>
+  <td>CSS3</td>
+  <td>████████ 80%</td>
+</tr>
+<tr>
+  <td>JavaScript</td>
+  <td>██████ 60%</td>
+</tr>
+<tr>
+  <td>Bootstrap</td>
+  <td>██████ 60%</td>
+</tr>
+<tr>
+  <td>Postman</td>
+  <td>██████ 60%</td>
+</tr>
+<tr>
+  <td>Git & GitHub</td>
+  <td>████████ 80%</td>
+</tr>
+<tr>
+  <td>AWS</td>
+  <td>█████ 50%</td>
+</tr>
+<tr>
+  <td>Netlify</td>
+  <td>█████ 50%</td>
+</tr>
+</table>
+
 <!-- ================= GITHUB STATS ================= -->
 <h3>🔥 GitHub Stats</h3>
-<p>
-  <!-- Horizontal language graph with all languages -->
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunilshinde1319&layout=normal&theme=dark&langs_count=10" alt="All Languages" />
-</p>
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sunilshinde1319&show_icons=true&locale=en&theme=dark&background=000000" alt="GitHub Stats" />
 </p>
