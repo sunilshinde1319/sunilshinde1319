@@ -26,7 +26,7 @@
 - 🤝 Looking to collaborate with innovative developers
 - 💌 Reach me at: sunilshinde5699@gmail.com
 - 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/sunil-shinde-3a3072217/)
-- 🔗 Check my [Portfolio](https://sunilshindeportfolio.netlify.app/)
+- 🔗 Check my [Portfolio](https://s3portfolio.netlify.app/)
 
 <!-- ================= SOCIAL BADGES ================= -->
 <h3 align="left">Connect with me:</h3>
