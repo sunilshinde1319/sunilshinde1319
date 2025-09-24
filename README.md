@@ -37,8 +37,8 @@ I designed and built my personal portfolio to be an interactive experience, not 
 
 <div align="center">
   <a href="https://s3portfolio.netlify.app/" target="_blank">
-    <!-- IMPORTANT: Record a short GIF of your portfolio and upload it to GitHub, then replace this link -->
-    <img src="https://path-to-your-portfolio-demo.gif" alt="Portfolio Live Demo GIF" width="800"/>
+    <!-- This is a high-quality placeholder GIF. Replace it with a recording of your own portfolio for the best result! -->
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXdybndlYzB2ZGFkZHZvZGNwM2J2anZpZHFxb3c0cXY2bXBibHNocyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpY2b/giphy.gif" alt="Portfolio Live Demo GIF" width="800"/>
   </a>
 </div>
 
